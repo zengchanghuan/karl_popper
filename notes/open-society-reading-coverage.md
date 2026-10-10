@@ -2,7 +2,7 @@
 
 更新：2026-10-10。依据本地2011年Routledge Classics版EPUB实际目录、章节文件及原注标题核对；以内部文件定位，不编造页码。
 
-未署名前言（Foreword）7段已译；哈维尔序言全部15段及标题原注已译；贡布里希回忆录前32个有文字的正文段落及原注已译，其余18段按用户最新要求省略；《致谢》及《第一版序言》已完整译读；25章正文尚未开始。用户随后明确当前只需忠实译文，不添加导师理解；后续覆盖状态以逐段译读和原注为准，不以讲解或答题作为转章条件。标记不等于掌握。章内自然段、分节、题辞和交叉引用在进入对应章时细化；原注随对应章节译读，不推迟到第二轮。
+未署名前言（Foreword）7段已译；哈维尔序言全部15段及标题原注已译；贡布里希回忆录前32个有文字的正文段落及原注已译，其余18段按用户最新要求省略；《致谢》及《第一版序言》已完整译读；用户要求直接从导论开始，第二版序言暂留未读；导论题辞、正文18段及原注2段已译；第1章正文9段与全部原注已译；第2章正文17段及全部原注已译；第3章第Ⅰ—Ⅳ节及原注1—12已译；第3章第Ⅴ—Ⅵ节及后续原注、第4—5章保留未读；按用户最新要求进入第6章，章首8段与5个列表项、第Ⅰ节5段及原注1—7已译，其余未读。用户随后明确当前只需忠实译文，不添加导师理解；后续覆盖状态以逐段译读和原注为准，不以讲解或答题作为转章条件。标记不等于掌握。章内自然段、分节、题辞和交叉引用在进入对应章时细化；原注随对应章节译读，不推迟到第二轮。
 
 ## 实际目录逐项登记
 
@@ -16,18 +16,18 @@
 | ‘PERSONAL RECOLLECTIONS OF THE PUBLICATION OF THE OPEN SOCIETY’ | `text/part0008_split_000.html` | 有文字正文第1—32段及原注已译；用户于2026-10-10要求忽略，余下18段省略，不计全文完成 |
 | ACKNOWLEDGEMENTS | `text/part0009.html` | 正文全部6段、5组日期地点及署名已译 |
 | PREFACE TO THE FIRST EDITION | `text/part0010.html` | 全部3段及1943年日期已译 |
-| PREFACE TO THE SECOND EDITION | `text/part0011.html` | 未开始／未开始／未开始 |
-| INTRODUCTION | `text/part0012.html` | 未开始／未开始／未开始 |
-| VOLUME I: THE SPELL OF PLATO | `text/part0013_split_000.html` | 未开始／未开始／未开始 |
-| The Myth of Origin and Destiny | `text/part0014.html` | 未开始／未开始／未开始 |
-| 1 Historicism and the Myth of Destiny | `text/part0015.html` | 未开始／未开始／未开始 |
-| 2 Heraclitus | `text/part0016.html` | 未开始／未开始／未开始 |
-| 3 Plato’s Theory of Forms or Ideas | `text/part0017_split_000.html` | 未开始／未开始／未开始 |
+| PREFACE TO THE SECOND EDITION | `text/part0011.html` | 用户要求直接从导论开始，暂留未读，不计完成 |
+| INTRODUCTION | `text/part0012.html` | 题辞及全部18个正文段落已译；按要求不另加讲解 |
+| VOLUME I: THE SPELL OF PLATO | `text/part0013_split_000.html` | 标题及split_001、split_002的全部4则题辞已译 |
+| The Myth of Origin and Destiny | `text/part0014.html` | 分组标题已译 |
+| 1 Historicism and the Myth of Destiny | `text/part0015.html` | 标题及正文9段已译；不另加讲解，未确认独立掌握 |
+| 2 Heraclitus | `text/part0016.html` | 正文全部17段已译；按要求不另加讲解，未确认独立掌握 |
+| 3 Plato’s Theory of Forms or Ideas | `text/part0017_split_000.html` | 共6节，split_001至006；第Ⅰ节6段、第Ⅱ节4段、第Ⅲ节4段、第Ⅳ节6段已译，第Ⅴ—Ⅵ节未读 |
 | Plato’s Descriptive Sociology | `text/part0018.html` | 未开始／未开始／未开始 |
 | 4 Change and Rest | `text/part0019_split_000.html` | 未开始／未开始／未开始 |
 | 5 Nature and Convention | `text/part0020_split_000.html` | 未开始／未开始／未开始 |
-| Plato’s Political Programme | `text/part0021.html` | 未开始／未开始／未开始 |
-| 6 Totalitarian Justice | `text/part0022_split_000.html` | 未开始／未开始／未开始 |
+| Plato’s Political Programme | `text/part0021.html` | 分组标题已译；用户最新指定从此处进入 |
+| 6 Totalitarian Justice | `text/part0022_split_000.html` | 章首8段及5个列表项、第Ⅰ节5段已译；下一为第Ⅱ节split_002，其余未读 |
 | 7 The Principle of Leadership | `text/part0023_split_000.html` | 未开始／未开始／未开始 |
 | 8 The Philosopher King | `text/part0024_split_000.html` | 未开始／未开始／未开始 |
 | 9 Aestheticism, Perfectionism, Utopianism | `text/part0025.html` | 未开始／未开始／未开始 |
@@ -68,13 +68,13 @@
 
 | 对应正文 | 原注文件 | 状态 |
 | --- | --- | --- |
-| 导论 | `text/part0052_split_001.html` | 未开始 |
-| 第1章 | `text/part0052_split_003.html` | 未开始 |
-| 第2章 | `text/part0052_split_004.html` | 未开始 |
-| 第3章 | `text/part0052_split_005.html` | 未开始 |
+| 导论 | `text/part0052_split_001.html` | 全部2段已译，交叉引用保留 |
+| 第1章 | `text/part0052_split_003.html` | 题辞说明及注1—4全部已译，含注3、注4星号增补 |
+| 第2章 | `text/part0052_split_004.html` | 原注1—14全部已译，完整保留增补及论述 |
+| 第3章 | `text/part0052_split_005.html` | 注1—12全部已译（含星号增补）；注13—31未读。注4有损坏字符，译文末登记 |
 | 第4章 | `text/part0052_split_006.html` | 未开始 |
 | 第5章 | `text/part0052_split_007.html` | 未开始 |
-| 第6章 | `text/part0053_split_000.html` | 未开始 |
+| 第6章 | `text/part0053_split_000.html` | 原注1—7全部已译；后续未读 |
 | 第7章 | `text/part0053_split_001.html` | 未开始 |
 | 第8章 | `text/part0053_split_002.html` | 未开始 |
 | 第9章 | `text/part0053_split_003.html` | 未开始 |
