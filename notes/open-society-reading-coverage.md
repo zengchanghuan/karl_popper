@@ -1,0 +1,130 @@
+# 《开放社会及其敌人》全文精读覆盖表
+
+更新：2026-10-10。依据本地2011年Routledge Classics版EPUB实际目录、章节文件及原注标题核对；以内部文件定位，不编造页码。
+
+未署名前言（Foreword）7段已译；哈维尔序言全部15段及标题原注已译；贡布里希回忆录前32个有文字的正文段落及原注已译，其余18段按用户最新要求省略；《致谢》及《第一版序言》已完整译读；25章正文尚未开始。用户随后明确当前只需忠实译文，不添加导师理解；后续覆盖状态以逐段译读和原注为准，不以讲解或答题作为转章条件。标记不等于掌握。章内自然段、分节、题辞和交叉引用在进入对应章时细化；原注随对应章节译读，不推迟到第二轮。
+
+## 实际目录逐项登记
+
+| 项目（按实际目录） | 原文入口 | 译读／讲解／收束 |
+| --- | --- | --- |
+| Title | `text/part0003.html` | 已核对版本或目录；不计正文精读 |
+| Copyright | `text/part0004.html` | 已核对版本或目录；不计正文精读 |
+| Contents | `text/part0005.html` | 已核对版本或目录；不计正文精读 |
+| FOREWORD | `text/part0006.html` | 全部7段已译；此前讲解已归档；未独立掌握 |
+| PREFACE: ‘KARL POPPER’S THE OPEN SOCIETY AND ITS ENEMIES IN THE CONTEMPORARY GLOBAL WORLD’ | `text/part0007_split_000.html` | 全部15段及标题原注已译；独立掌握未确认 |
+| ‘PERSONAL RECOLLECTIONS OF THE PUBLICATION OF THE OPEN SOCIETY’ | `text/part0008_split_000.html` | 有文字正文第1—32段及原注已译；用户于2026-10-10要求忽略，余下18段省略，不计全文完成 |
+| ACKNOWLEDGEMENTS | `text/part0009.html` | 正文全部6段、5组日期地点及署名已译 |
+| PREFACE TO THE FIRST EDITION | `text/part0010.html` | 全部3段及1943年日期已译 |
+| PREFACE TO THE SECOND EDITION | `text/part0011.html` | 未开始／未开始／未开始 |
+| INTRODUCTION | `text/part0012.html` | 未开始／未开始／未开始 |
+| VOLUME I: THE SPELL OF PLATO | `text/part0013_split_000.html` | 未开始／未开始／未开始 |
+| The Myth of Origin and Destiny | `text/part0014.html` | 未开始／未开始／未开始 |
+| 1 Historicism and the Myth of Destiny | `text/part0015.html` | 未开始／未开始／未开始 |
+| 2 Heraclitus | `text/part0016.html` | 未开始／未开始／未开始 |
+| 3 Plato’s Theory of Forms or Ideas | `text/part0017_split_000.html` | 未开始／未开始／未开始 |
+| Plato’s Descriptive Sociology | `text/part0018.html` | 未开始／未开始／未开始 |
+| 4 Change and Rest | `text/part0019_split_000.html` | 未开始／未开始／未开始 |
+| 5 Nature and Convention | `text/part0020_split_000.html` | 未开始／未开始／未开始 |
+| Plato’s Political Programme | `text/part0021.html` | 未开始／未开始／未开始 |
+| 6 Totalitarian Justice | `text/part0022_split_000.html` | 未开始／未开始／未开始 |
+| 7 The Principle of Leadership | `text/part0023_split_000.html` | 未开始／未开始／未开始 |
+| 8 The Philosopher King | `text/part0024_split_000.html` | 未开始／未开始／未开始 |
+| 9 Aestheticism, Perfectionism, Utopianism | `text/part0025.html` | 未开始／未开始／未开始 |
+| The Background of Plato’s Attack | `text/part0026.html` | 未开始／未开始／未开始 |
+| 10 The Open Society and Its Enemies | `text/part0027_split_000.html` | 未开始／未开始／未开始 |
+| Addenda (1957, 1961, 1965) | `text/part0028_split_000.html` | 未开始／未开始／未开始 |
+| VOLUME II: THE HIGH TIDE OF PROPHECY | `text/part0029_split_000.html` | 未开始／未开始／未开始 |
+| The Rise of Oracular Philosophy | `text/part0030.html` | 未开始／未开始／未开始 |
+| 11 The Aristotelian Roots of Hegelianism | `text/part0031_split_000.html` | 未开始／未开始／未开始 |
+| 12 Hegel and the New Tribalism | `text/part0032_split_000.html` | 未开始／未开始／未开始 |
+| Marx’s Method | `text/part0033.html` | 未开始／未开始／未开始 |
+| 13 Marx’s Sociological Determinism | `text/part0034.html` | 未开始／未开始／未开始 |
+| 14 The Autonomy of Sociology | `text/part0035.html` | 未开始／未开始／未开始 |
+| 15 Economic Historicism | `text/part0036_split_000.html` | 未开始／未开始／未开始 |
+| 16 The Classes | `text/part0037_split_000.html` | 未开始／未开始／未开始 |
+| 17 The Legal and the Social System | `text/part0038_split_000.html` | 未开始／未开始／未开始 |
+| Marx’s Prophecy | `text/part0039.html` | 未开始／未开始／未开始 |
+| 18 The Coming of Socialism | `text/part0040_split_000.html` | 未开始／未开始／未开始 |
+| 19 The Social Revolution | `text/part0041_split_000.html` | 未开始／未开始／未开始 |
+| 20 Capitalism and its Fate | `text/part0042_split_000.html` | 未开始／未开始／未开始 |
+| 21 An Evaluation of the Prophecy | `text/part0043.html` | 未开始／未开始／未开始 |
+| Marx’s Ethics | `text/part0044.html` | 未开始／未开始／未开始 |
+| 22 The Moral Theory of Historicism | `text/part0045.html` | 未开始／未开始／未开始 |
+| The Aftermath | `text/part0046.html` | 未开始／未开始／未开始 |
+| 23 The Sociology of Knowledge | `text/part0047.html` | 未开始／未开始／未开始 |
+| 24 Oracular Philosophy and the Revolt against Reason | `text/part0048_split_000.html` | 未开始／未开始／未开始 |
+| Conclusion | `text/part0049.html` | 未开始／未开始／未开始 |
+| 25 Has History any Meaning? | `text/part0050_split_000.html` | 未开始／未开始／未开始 |
+| Addenda (1961, 1965) | `text/part0051_split_000.html` | 未开始／未开始／未开始 |
+| NOTES | `text/part0052_split_000.html` | 未开始／未开始／未开始 |
+| NOTES TO VOLUME I | `text/part0052_split_002.html` | 未开始／未开始／未开始 |
+| NOTES TO VOLUME II | `text/part0054_split_001.html` | 未开始／未开始／未开始 |
+| INDEX | `text/part0056_split_000.html` | 未开始／未开始／未开始 |
+
+同一章节的后续split文件均属于阅读范围，不能只读入口文件。各卷首题辞：`part0013_split_001.html`、`part0029_split_001.html`，尚未译读。Havel及Gombrich标题原注分别在`part0007_split_001.html`及`part0008_split_001.html`，均已译读。
+
+## 各章原注
+
+| 对应正文 | 原注文件 | 状态 |
+| --- | --- | --- |
+| 导论 | `text/part0052_split_001.html` | 未开始 |
+| 第1章 | `text/part0052_split_003.html` | 未开始 |
+| 第2章 | `text/part0052_split_004.html` | 未开始 |
+| 第3章 | `text/part0052_split_005.html` | 未开始 |
+| 第4章 | `text/part0052_split_006.html` | 未开始 |
+| 第5章 | `text/part0052_split_007.html` | 未开始 |
+| 第6章 | `text/part0053_split_000.html` | 未开始 |
+| 第7章 | `text/part0053_split_001.html` | 未开始 |
+| 第8章 | `text/part0053_split_002.html` | 未开始 |
+| 第9章 | `text/part0053_split_003.html` | 未开始 |
+| 第10章 | `text/part0054_split_000.html` | 未开始 |
+| 第11章 | `text/part0054_split_002.html` | 未开始 |
+| 第12章 | `text/part0055_split_000.html` | 未开始 |
+| 第13章 | `text/part0055_split_001.html` | 未开始 |
+| 第14章 | `text/part0055_split_002.html` | 未开始 |
+| 第15章 | `text/part0055_split_003.html` | 未开始 |
+| 第16章 | `text/part0055_split_004.html` | 未开始 |
+| 第17章 | `text/part0055_split_005.html` | 未开始 |
+| 第18章 | `text/part0055_split_006.html` | 未开始 |
+| 第19章 | `text/part0055_split_007.html` | 未开始 |
+| 第20章 | `text/part0055_split_008.html` | 未开始 |
+| 第21章 | `text/part0055_split_009.html` | 未开始 |
+| 第22章 | `text/part0055_split_010.html` | 未开始 |
+| 第23章 | `text/part0055_split_011.html` | 未开始 |
+| 第24章 | `text/part0055_split_012.html` | 未开始 |
+| 第25章 | `text/part0055_split_013.html` | 未开始 |
+
+## 补遗子项（均未开始）
+
+卷一补遗：I《柏拉图与几何学》（1957），含1961年补充；II《〈泰阿泰德篇〉的定年》（1961）；III《答一位批评者》（1961），含后续分段；IV（1965，原目录无其他标题）；补遗原注。文件范围`text/part0028_split_000.html`至`part0028_split_007.html`。
+
+卷二补遗：I《事实、标准与真理：对相对主义的进一步批评》（1961）；II《论施瓦茨希尔德关于马克思的著作》（1965）；补遗原注。文件范围`text/part0051_split_000.html`至`part0051_split_003.html`。
+
+卷二补遗I的18小节分别登记：
+
+- [ ] 1. Truth
+- [ ] 2. Criteria
+- [ ] 3. Criterion philosophies
+- [ ] 4. Fallibilism
+- [ ] 5. Fallibilism and the growth of knowledge
+- [ ] 6. Getting nearer to the truth
+- [ ] 7. Absolutism
+- [ ] 8. Sources of knowledge
+- [ ] 9. Is a critical method possible?
+- [ ] 10. Decisions
+- [ ] 11. Social and political problems
+- [ ] 12. Dualism of facts and standards
+- [ ] 13. Proposals and propositions
+- [ ] 14. Two wrongs do not make two rights
+- [ ] 15. ‘Experience’ and ‘intuition’ as sources of knowledge
+- [ ] 16. The dualism of facts and standards and the idea of liberalism
+- [ ] 17. Hegel again
+- [ ] 18. Conclusion
+
+## 学习者证据与待核查
+
+- 本轮没有新增必答题；独立掌握未确认。
+- 前言没有署名，不猜测作者；其历史细节、人物定性和民主的强断言尚未独立裁定。
+- 制度主张与对柏拉图、黑格尔、马克思的诠释分开评估；关键归属到达相关文本时对照原著上下文。
+- 索引已纳入登记，章末与全书末利用索引复核；不把词条索引冒充作者论证。
