@@ -1,5 +1,7 @@
 # 《通往奴役之路》版本与覆盖表
 
+本表记录助手的原文核对和译稿准备情况，不代表用户阅读进度。用户于2026-10-10明确尚未看此前译文，哈耶克学习进度为零；开始阅读时从书首前置材料及《编者前言》起。下表“已译”仅指助手已有译稿。
+
 2026-10-10核对。本地英文文件：`file/The Road to Serfdom Text and Documents, The Definitive Edition (Friedrich August Hayek).epub`。ZIP完整性检查通过。版权页：University of Chicago Press，2007；原文版权1944；F. A. Hayek著，Bruce Caldwell编；《全集》第II卷。平装ISBN 978-0-226-32055-7，精装978-0-226-32054-0。OPF日期1971与版权页不一致，采用版权页2007，不将转换元数据当作出版年。
 
 按目录页index_split_006.html、导航toc.ncx及实际spine核对。目录与导航将Conclusion编号为Sixteen，按文件保留。无单独索引条目或索引正文发现：版权页虽称含索引，当前EPUB实际不见索引，不能声称与纸本逐页完整一致。index_split_033.html是附录续文及注释，不能跳过。末尾index_split_035.html为封面重复，036为导航目录重复。
@@ -42,4 +44,4 @@
 | 27f | Introduction to the 1994 Edition by Milton Friedman／米尔顿·弗里德曼为1994年版所作导论 | 032—033 | 待译 |
 | 28 | Acknowledgments／致谢 | 034 | 待译 |
 
-译文：`translations/road-to-serfdom-editorial-foreword-zh.md`及`translations/road-to-serfdom-caldwell-introduction-zh.md`。下一正文位置：index_split_008.html的p17，“On the one hand, Hayek had developed some of his new arguments...”。非正文出版材料另保留待补译；正文与附注按实际顺序完整覆盖。未确认独立掌握。
+译稿：`translations/road-to-serfdom-editorial-foreword-zh.md`及`translations/road-to-serfdom-caldwell-introduction-zh.md`。助手下一译稿位置：index_split_008.html的p17，“On the one hand, Hayek had developed some of his new arguments...”。用户阅读起点仍是书首前置材料及《编者前言》。非正文出版材料另保留待补译；后续正文与附注按实际顺序完整覆盖。用户尚未开始学习。

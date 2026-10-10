@@ -1,6 +1,6 @@
 # Karl Popper 学习进度
 
-更新日期：2026-10-10（Asia/Shanghai）。当前哈耶克《通往奴役之路》英文全文译读。已收到并核对本地EPUB《The Road to Serfdom: Text and Documents, The Definitive Edition》，University of Chicago Press，2007，Bruce Caldwell编，《全集》第II卷。ZIP完整性检查通过；版权页及目录、导航、正文排列已核对。已完整译读Caldwell《编者前言》10段及署名，无原注；《编者导论》已译index_split_008.html的p索引1—16（含小标题p7、p13后的独立引语）及原注1—19，原注14两个续段已全部覆盖。译文见translations/road-to-serfdom-caldwell-introduction-zh.md。下一正文位置为同文件p17：“On the one hand, Hayek had developed some of his new arguments...”。覆盖表见notes/road-to-serfdom-reading-coverage.md；非正文出版材料尚未逐项全译，保留待补译。正文各章均未开始，独立掌握未确认。
+更新日期：2026-10-10（Asia/Shanghai）。哈耶克学习尚未开始。用户明确：“哈耶克没开始学习。上面的我还没有看。”已收到并核对本地英文EPUB《The Road to Serfdom: Text and Documents, The Definitive Edition》，University of Chicago Press，2007，Bruce Caldwell编，《全集》第II卷。ZIP完整性检查通过，版权页及目录、导航、正文排列已核对。助手已生成并展示Caldwell《编者前言》全部10段及署名、《编者导论》p索引1—16与原注1—19的译文，用户尚未阅读；这些仅是已准备的材料，不记为用户已读、学习完成或掌握。用户开始时从书首前置材料与《编者前言》开始。助手译稿的后续工作位置另为编者导论index_split_008.html的p17：“On the one hand, Hayek had developed some of his new arguments...”。覆盖表见notes/road-to-serfdom-reading-coverage.md；非正文出版材料尚未逐项全译。正文各章均未开始。
 
 本聊天的《开放社会及其敌人》续读：已译未署名前言7段、哈维尔序言全文及原注；贡布里希回忆录前32个有文字的段落及原注已译，用户最新明确“贡布里希的回忆录忽略吧”，剩余18段按要求省略，不记为完成。现已完整译读《致谢》（包括各版追加、日期和署名）与《第一版序言》（3段及1943年日期）。下一项为《第二版序言》，`text/part0011.html`。正文25章尚未开始，独立掌握未确认。
 
@@ -90,7 +90,7 @@
 
 ## 下一步
 
-继续《通往奴役之路》编者导论（Bruce Caldwell），index_split_008.html的p17起：“On the one hand, Hayek had developed some of his new arguments...”，从社会主义经济计算争论的背景继续；原注1—19已译，后续原注20—109随正文覆盖。本篇不能归为哈耶克本人导论。此前非正文出版材料待补译，详见覆盖表；随后按文件顺序译题辞、献辞、各版前言与序言、作者导论、全部章节、书目说明、附录及致谢。不主动附导师解释或练习，每轮保持充实连续内容。
+等待用户开始阅读《通往奴役之路》。用户尚未看此前提供的哈耶克译文，阅读起点为书首前置材料与Caldwell《编者前言》，不能从助手译稿的p17直接当作用户续学。若用户之后要求继续准备译稿，助手工作位置是Caldwell《编者导论》index_split_008.html的p17：“On the one hand, Hayek had developed some of his new arguments...”；原注1—19已有译稿，后续原注20—109随正文覆盖。本篇不能归为哈耶克本人导论。非正文出版材料待补译，详见覆盖表；之后按文件顺序译题辞、献辞、各版前言与序言、作者导论、全部章节、书目说明、附录及致谢。不主动附导师解释或练习，每轮保持充实连续内容。
 
 本聊天《开放社会及其敌人》的下一项为第二版序言，随后导论及原注、第1章；贡布里希回忆录剩余部分按用户明确要求省略。全部25章、作者原注与补遗的全文要求保留。
 
