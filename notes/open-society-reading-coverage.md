@@ -27,7 +27,7 @@
 | 4 Change and Rest | `text/part0019_split_000.html` | 未开始／未开始／未开始 |
 | 5 Nature and Convention | `text/part0020_split_000.html` | 未开始／未开始／未开始 |
 | Plato’s Political Programme | `text/part0021.html` | 分组标题已译；用户最新指定从此处进入 |
-| 6 Totalitarian Justice | `text/part0022_split_000.html` | 章首8段及5个列表项、第Ⅰ节5段已译；下一为第Ⅱ节split_002，其余未读 |
+| 6 Totalitarian Justice | `text/part0022_split_000.html` | 章首8段及5个列表项、第Ⅰ节5段已译；第Ⅱ节split_002全部7段已译；第Ⅲ节及后续未读 |
 | 7 The Principle of Leadership | `text/part0023_split_000.html` | 未开始／未开始／未开始 |
 | 8 The Philosopher King | `text/part0024_split_000.html` | 未开始／未开始／未开始 |
 | 9 Aestheticism, Perfectionism, Utopianism | `text/part0025.html` | 未开始／未开始／未开始 |
@@ -74,7 +74,7 @@
 | 第3章 | `text/part0052_split_005.html` | 注1—12全部已译（含星号增补）；注13—31未读。注4有损坏字符，译文末登记 |
 | 第4章 | `text/part0052_split_006.html` | 未开始 |
 | 第5章 | `text/part0052_split_007.html` | 未开始 |
-| 第6章 | `text/part0053_split_000.html` | 原注1—7全部已译；后续未读 |
+| 第6章 | `text/part0053_split_000.html` | 原注1—8全部已译；原注9开头及（1）—（2）项已译，接续（3）项，后续分项与图示未读；原注10起未读 |
 | 第7章 | `text/part0053_split_001.html` | 未开始 |
 | 第8章 | `text/part0053_split_002.html` | 未开始 |
 | 第9章 | `text/part0053_split_003.html` | 未开始 |
@@ -128,3 +128,19 @@
 - 前言没有署名，不猜测作者；其历史细节、人物定性和民主的强断言尚未独立裁定。
 - 制度主张与对柏拉图、黑格尔、马克思的诠释分开评估；关键归属到达相关文本时对照原著上下文。
 - 索引已纳入登记，章末与全书末利用索引复核；不把词条索引冒充作者论证。
+
+2026-10-12本聊天波普尔续读更新：第6章第Ⅱ节对应原注9第（3）—（5）项、原图及图注、原注10—11已全部译读；至此原注1—11已覆盖。准确下一位置为第6章第Ⅲ节，`text/part0022_split_003.html`。此前“原注9待译”的位置为历史记录，已由本条更新。
+
+2026-10-12本聊天波普尔最新续读：第6章第Ⅲ节全部3段及对应原注12—15已译完；原注1—15已覆盖。准确下一位置为第6章第Ⅳ节，`text/part0022_split_004.html`。此前第Ⅲ节待译的记录已由本条更新。
+
+2026-10-12本聊天波普尔最新续读：第6章第Ⅳ节前7段及原注16—21全部已译；原注1—21已覆盖。准确下一位置为同节第8段“But how did he try to establish his own anti-equalitarianism...”，`text/part0022_split_004.html`。第Ⅳ节余下8段及对应原注22—25待译；不转第Ⅴ节。
+
+2026-10-12本聊天波普尔最新续读：第6章第Ⅳ节余下8段及对应原注22—25全部已译，至此第Ⅳ节15段及原注16—25完整覆盖。准确下一位置为第6章第Ⅴ节，`text/part0022_split_005.html`。前置原注1—25均已译；独立掌握未确认。
+
+2026-10-12本聊天波普尔最新续读：第6章第Ⅴ节第1—9段、原表及原注26—31已完整译读，原注1—31已覆盖。准确下一位置为同节第10段“Plato was right when he saw in this doctrine the enemy of his caste state...”，`text/part0022_split_005.html`。余下8段与原注32—39未译，不转第Ⅵ节。
+
+2026-10-12本聊天波普尔最新续读：第6章第Ⅴ节余下8段及对应原注32—39全部已译，至此第Ⅴ节17段、原表及原注26—39完整覆盖。准确下一位置为第6章第Ⅵ节，`text/part0022_split_006.html`。原注1—39均已译；独立掌握未确认。
+
+2026-10-12本聊天波普尔最新续读：第6章第Ⅵ节前9段及原注40—41已译，原注1—41已覆盖。准确下一位置为同节第10段“In a clear presentation of this theory...”，`text/part0022_split_006.html`。余下8段及原注42—44待译。
+
+2026-10-12本聊天波普尔最新续读：第6章第Ⅵ节余下8段及原注42—44已完整译读，至此第Ⅵ节17段及原注40—44全部覆盖。准确下一位置为第6章第Ⅶ节，`text/part0022_split_007.html`。原注1—44已译；独立掌握未确认。
