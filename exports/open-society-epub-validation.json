@@ -1,0 +1,99 @@
+{
+  "output": "/Users/tristan/workspace/karl_popper/exports/open-society-zh-study-collected.epub",
+  "size_bytes": 404923,
+  "documents": 16,
+  "assets": 2,
+  "validated_internal_links": 766,
+  "sources": [
+    {
+      "file": "foreword",
+      "characters": 1099,
+      "headings": 1,
+      "linked_note_numbers": 0
+    },
+    {
+      "file": "havel-preface",
+      "characters": 4135,
+      "headings": 1,
+      "linked_note_numbers": 0
+    },
+    {
+      "file": "gombrich-recollections",
+      "characters": 5459,
+      "headings": 2,
+      "linked_note_numbers": 0
+    },
+    {
+      "file": "acknowledgements-and-first-preface",
+      "characters": 1284,
+      "headings": 2,
+      "linked_note_numbers": 0
+    },
+    {
+      "file": "second-preface",
+      "characters": 1377,
+      "headings": 1,
+      "linked_note_numbers": 0
+    },
+    {
+      "file": "introduction",
+      "characters": 4268,
+      "headings": 2,
+      "linked_note_numbers": 0
+    },
+    {
+      "file": "ch01",
+      "characters": 3643,
+      "headings": 5,
+      "linked_note_numbers": 4
+    },
+    {
+      "file": "ch02",
+      "characters": 11761,
+      "headings": 5,
+      "linked_note_numbers": 14
+    },
+    {
+      "file": "ch03",
+      "characters": 25922,
+      "headings": 12,
+      "linked_note_numbers": 31
+    },
+    {
+      "file": "ch06",
+      "characters": 49429,
+      "headings": 26,
+      "linked_note_numbers": 54
+    },
+    {
+      "file": "ch07",
+      "characters": 21538,
+      "headings": 14,
+      "linked_note_numbers": 26
+    },
+    {
+      "file": "ch08",
+      "characters": 33301,
+      "headings": 21,
+      "linked_note_numbers": 62
+    },
+    {
+      "file": "ch09",
+      "characters": 20651,
+      "headings": 11,
+      "linked_note_numbers": 14
+    },
+    {
+      "file": "ch10",
+      "characters": 60486,
+      "headings": 35,
+      "linked_note_numbers": 71
+    },
+    {
+      "file": "vol1-addenda",
+      "characters": 21114,
+      "headings": 16,
+      "linked_note_numbers": 2
+    }
+  ]
+}
