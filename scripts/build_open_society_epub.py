@@ -1,7 +1,7 @@
 from pathlib import Path
 import re,html,zipfile,uuid,xml.etree.ElementTree as ET,posixpath
 ROOT=Path(__file__).resolve().parents[1]
-FILES=[('前言','foreword'),('哈维尔序言','havel-preface'),('贡布里希出版回忆（部分）','gombrich-recollections'),('致谢与第一版序言','acknowledgements-and-first-preface'),('第二版序言','second-preface'),('导论','introduction'),('第一卷题辞及第1章','ch01'),('第2章 赫拉克利特','ch02'),('第3章 理念理论','ch03'),('第6章 极权主义的正义','ch06'),('第7章 领导原则','ch07'),('第8章 哲学王','ch08'),('第9章 唯美主义、完美主义与乌托邦主义','ch09'),('第10章 开放社会及其敌人','ch10'),('第一卷补遗Ⅰ—Ⅳ','vol1-addenda')]
+FILES=[('前言','foreword'),('哈维尔序言','havel-preface'),('贡布里希出版回忆（部分）','gombrich-recollections'),('致谢与第一版序言','acknowledgements-and-first-preface'),('第二版序言','second-preface'),('导论','introduction'),('第一卷题辞及第1章','ch01'),('第2章 赫拉克利特','ch02'),('第3章 理念理论','ch03'),('第4章 变化与静止（章首及Ⅰ节）','ch04'),('第6章 极权主义的正义','ch06'),('第7章 领导原则','ch07'),('第8章 哲学王','ch08'),('第9章 唯美主义、完美主义与乌托邦主义','ch09'),('第10章 开放社会及其敌人','ch10'),('第一卷补遗Ⅰ—Ⅳ','vol1-addenda')]
 assets={};report=[]
 def clean(slug):
  s=(ROOT/'translations'/f'open-society-{slug}-zh.md').read_text()
@@ -89,9 +89,9 @@ intro='''# 开放社会及其敌人：中文学习译文合集
 
 作者：卡尔·波普尔。前置文字分别保留原作者署名。本书是依据用户提供的2011年Routledge Classics英文EPUB逐段生成的中文学习译文，供个人复习，不是已出版的中文译本。
 
-本合集尚非全书。已包含：前言、哈维尔序言、贡布里希出版回忆已译部分、致谢和第一、第二版序言、导论、第1—2章、第3章全部正文及原注、第6—10章及对应已译原注、第一卷补遗Ⅰ—Ⅳ。
+本合集尚非全书。已包含：前言、哈维尔序言、贡布里希出版回忆已译部分、致谢和第一、第二版序言、导论、第1—2章、第3章全部正文及原注、第4章章首与第Ⅰ节及原注1—5、第6—10章及对应已译原注、第一卷补遗Ⅰ—Ⅳ。
 
-未包含：第4—5章及原注、第二卷第11—25章及其原注与补遗。贡布里希回忆剩余18段按用户要求省略。译文生成与电子书整理不代表用户已读或掌握。
+未包含：第4章第Ⅱ节起及原注6起、第5章及原注、第二卷第11—25章及其原注与补遗。贡布里希回忆剩余18段按用户要求省略。译文生成与电子书整理不代表用户已读或掌握。
 
 阅读版将已译正文的连续片段合并，将第2—10章的原注集中到各章末。注号提供跳转及返回链接。原有图示保留。章目中的缺失不作隐瞒，也不以概述补写。
 
@@ -112,7 +112,7 @@ manifest=['<item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" pr
 for i,(slug,title,b,h) in enumerate(items):manifest.append(f'<item id="s{i}" href="{slug}.xhtml" media-type="application/xhtml+xml"/>');spine.append(f'<itemref idref="s{i}"/>')
 for i,(n,data) in enumerate(assets.items()):
  payload['OEBPS/'+n]=data;manifest.append(f'<item id="a{i}" href="{n}" media-type="image/jpeg"/>')
-payload['OEBPS/content.opf']=('''<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="uid">'''+uid+'''</dc:identifier><dc:title>开放社会及其敌人 · 中文学习译文合集（尚非全书）</dc:title><dc:creator>卡尔·波普尔</dc:creator><dc:language>zh-CN</dc:language><meta property="dcterms:modified">2026-10-13T00:00:00Z</meta></metadata><manifest>'''+''.join(manifest)+'</manifest><spine>'+''.join(spine)+'</spine></package>').encode()
+payload['OEBPS/content.opf']=('''<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="uid">'''+uid+'''</dc:identifier><dc:title>开放社会及其敌人 · 中文学习译文合集（尚非全书）</dc:title><dc:creator>卡尔·波普尔</dc:creator><dc:language>zh-CN</dc:language><meta property="dcterms:modified">2026-10-14T00:00:00Z</meta></metadata><manifest>'''+''.join(manifest)+'</manifest><spine>'+''.join(spine)+'</spine></package>').encode()
 payload['META-INF/container.xml']=b'<?xml version="1.0"?><container xmlns="urn:oasis:names:tc:opendocument:xmlns:container" version="1.0"><rootfiles><rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/></rootfiles></container>'
 out=ROOT/'exports/open-society-zh-study-collected.epub'
 with zipfile.ZipFile(out,'w') as z:

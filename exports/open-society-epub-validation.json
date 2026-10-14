@@ -1,9 +1,9 @@
 {
   "output": "/Users/tristan/workspace/karl_popper/exports/open-society-zh-study-collected.epub",
-  "size_bytes": 404923,
-  "documents": 16,
+  "size_bytes": 412561,
+  "documents": 17,
   "assets": 2,
-  "validated_internal_links": 766,
+  "validated_internal_links": 782,
   "sources": [
     {
       "file": "foreword",
@@ -58,6 +58,12 @@
       "characters": 25922,
       "headings": 12,
       "linked_note_numbers": 31
+    },
+    {
+      "file": "ch04",
+      "characters": 5655,
+      "headings": 3,
+      "linked_note_numbers": 5
     },
     {
       "file": "ch06",
